@@ -384,7 +384,7 @@ nav .fa-solid{
     align-items: center;
 }
     .header-text{
-        margin-top: 100%;
+        margin-top: 4%;
         font-size: 16px;
     }
     .header-text h1{
@@ -446,3 +446,4 @@ nav .fa-solid{
     display: block;
 
 }
+
