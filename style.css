@@ -377,6 +377,12 @@ nav .fa-solid{
         background-position: center;
         background-repeat: no-repeat;
     }
+    .header-content{
+    display: block;
+        gap:10px;
+    justify-content: space-around;
+    align-items: center;
+}
     .header-text{
         margin-top: 100%;
         font-size: 16px;
@@ -438,4 +444,5 @@ nav .fa-solid{
     color: #61b752;
     margin-top: -40px;
     display: block;
+
 }
